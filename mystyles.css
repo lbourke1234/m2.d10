@@ -1,0 +1,128 @@
+body {
+    background: #D8D8D8
+}
+
+.gog-logo {
+    height: 40px;
+}
+nav {
+    background: #2C2C2C
+}
+.discount {
+    background: purple;
+    color: white;
+    padding: 5px;
+    font-weight: 600;
+}
+.circle-img {
+    height: 28px;
+
+}
+.circle-color {
+    color: purple
+}
+.footer-top {
+    background: #262626;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.footer-mid {
+    background: #2F2F2F;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.footer-bottom {
+    background: #262626;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.footer-icons {
+    color: white;
+}
+.footer-logo {
+    height: 48px
+}
+/* .nav-container {
+    margin: -15px 0px;
+} */
+.first-card-row {
+    margin-top: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 30px
+}
+.highlights-column {
+    margin-left: 15px;
+    margin-top: -8px;
+    font-weight: 700;
+    margin-bottom: -10px;
+    /* margin-right: -15px */
+}
+.carousel-row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.nav-row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.navbar-icons {
+    padding-top:auto
+}
+.highlight-row {
+    margin-right:15px;
+}
+.we-gog-row {
+    /* margin-right: 15px;
+    margin-left: 15px; */
+}
+.we-gog-col1 {
+    padding-left: 30px
+}
+.we-gog-col2 {
+    padding-right: 30px
+}
+.navbar-sale {
+    margin-left: 26px;
+    padding-inline-start: 40px;
+}
+.sale-cards {
+    position: relative;
+}
+.h5-position {
+    position: absolute;
+    top: -80px;
+    left: 44px;
+}
+.percent-text {
+    font-weight: 500;
+    font-size: 4em;
+    color: yellow
+}
+.yellow {
+    color: yellow
+}
+.percent-button {
+    padding-left: 50px;
+    padding-right: 50px;
+    color:#262626;
+    border-color: #262626;
+}
+.carousel-control-next {
+    right: -100px;
+}
+.carousel-control-prev {
+    left: -100px;
+}
+.carousel-indicators {
+    bottom: -50px;
+}
+.carousel-container {
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.footer-container {
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 100%;
+}
